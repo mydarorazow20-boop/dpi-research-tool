@@ -1,0 +1,10 @@
+[package]
+name = "dpi-research-core"
+description = "Shared core library of the DPI research tool"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+publish.workspace = true
+
+[dependencies]
